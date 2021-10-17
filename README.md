@@ -15,3 +15,6 @@ Tambien, en la clase Test, se encuentra la logica de persistencia de datos, dond
 La clase Juego_preguntas_Respuestas, con tiene el metodo Main. existen otras clases como lo son la clase leer() y la clase ListaDinamica(), las cuales han sido usadas durante toda mi trayectoria de programador. 
 La clase leer(), se usa para recibir informacion que escribe el usuario, y la clase ListaDinamica(), es una especie de vector un poco mejorado, estas clases son usadas como librerias. 
 Finalmente, cuando el juego concluye ya sea porque el jugador gano o perdio o decidio retirarse, sus datos como el nombre del jugador y sus puntos totales, son guardados en un archivo txt como persistencia de datos.
+
+Percistencia de datos y archivos txt:
+los archivos txt que contiene las bases de datos de las preguntas y respuesas son 5 archivos txt, cada uno representa una categoria, y cada categoria tiene sus 5 preguntas con sus respectivas respuestas, y su ruta se encuentra dentro de la carpeta  Reto_tecnico_master junto con el archivo txt del historial del jugador, el cual contiene la base de datos del nombre del jugador a participar y sus puntos totales ganados.  
