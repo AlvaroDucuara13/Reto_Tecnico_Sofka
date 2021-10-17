@@ -1,0 +1,35 @@
+;g;PREGUNTAS CATEGORIA_2 --> ¿Cómo se llama la Reina de Inglaterra?
+Clara Odie
+Julieta II
+Isabel II
+Marsella
+;h;3
+2000
+;g;PREGUNTAS CATEGORIA_2 --> ¿Cuál es el río más largo del mundo?
+Magdalena
+Nilo
+Misisipi
+Amazonas
+;h;4
+2000
+;g;PREGUNTAS CATEGORIA_2 --> ¿Quién es el autor de el Quijote?
+Gabriel Garcia Marquez
+Miguel de Cervantes
+Sancho panza
+Pablo Coelho
+;h;2
+2000
+;g;PREGUNTAS CATEGORIA_2 --> ¿Cuál es el país más grande del mundo?
+Russia
+Estados Unidos
+China
+Brazil
+;h;1
+2000
+;g;PREGUNTAS CATEGORIA_2 --> ¿Cuál es tercer planeta en el sistema solar?
+Pluton
+Neptuno
+Marte
+Tierra
+;h;4
+2000

@@ -1,0 +1,35 @@
+;c;PREGUNTAS CATEGORIA_5 --> ¿En qué país se usó la primera bomba atómica en combate?
+Russia
+China
+Japón
+Africa
+;d;3
+5000
+;c;PREGUNTAS CATEGORIA_5 --> ¿Cuál es el metal más caro del mundo en la actualidad?
+Rodio
+Plata
+Oro
+Hierro
+;d;1
+5000
+;c;PREGUNTAS CATEGORIA_5 --> ¿Dónde se encuentra la capa de ozono?
+Corteza
+Litosfera
+Atmósfera
+Mesosfera
+;d;3
+5000
+;c;PREGUNTAS CATEGORIA_5 --> ¿Cuántos corazones tienen los pulpos?
+1
+5
+4
+3
+;d;4
+5000
+;c;PREGUNTAS CATEGORIA_5 --> ¿De qué país es originario el café?
+Colombia
+Brazil
+Etiopía
+China
+;d;3
+5000

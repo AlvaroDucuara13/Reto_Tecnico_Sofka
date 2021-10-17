@@ -1,0 +1,35 @@
+;t;PREGUNTAS CATEGORIA_3 --> ¿Cuándo acabó la II Guerra Mundial?
+1910
+1900
+1945
+1942
+;y;3
+3000
+;t;PREGUNTAS CATEGORIA_3 --> ¿Quién pintó “la última cena”?
+Leonardo da Vinci
+Miguel Angel
+Picasso
+Salvador Dalí
+;y;1
+3000
+;t;PREGUNTAS CATEGORIA_3 --> ¿En qué se especializa la cartografía?
+Cartas
+Geografia
+Mapas
+Ovnis
+;y;3
+3000
+;t;PREGUNTAS CATEGORIA_3 --> ¿Cuál es la moneda del Reino Unido?
+Euro
+Dollar
+Yuan
+Libra
+;y;4
+3000
+;t;PREGUNTAS CATEGORIA_3 --> ¿Qué instrumento óptico permite ver los astros de cerca?
+Lupa
+Prismáticos
+Telescopio
+Catalejo
+;y;3
+3000
