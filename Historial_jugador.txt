@@ -1,2 +1,2 @@
-Jugador: karen
-puntos totales: 0
+Jugador: daniel
+puntos totales: 15000

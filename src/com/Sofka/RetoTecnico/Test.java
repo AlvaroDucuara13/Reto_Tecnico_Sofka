@@ -16,6 +16,7 @@ import listaDinamica.ListaDinamica;
 /**
  *
  * @author alvaro
+ * la clase Test se realiza la configuracion del juego, asi como tambien, se carga los datos de cada pregunta y respuesta, y se guarda el historial del jugador
  */
 public class Test {
 
@@ -163,7 +164,7 @@ public class Test {
                 p.mostrarPregunta();
 
                 //Pedimos una respuesta
-                respuesta2 = teclado.pedirIntRango(1, p.getRespuestas().size(), "Introduce la respuesta");
+                respuesta2 = teclado.pedirIntRango(1, p.getRespuestas().size(), "Introduce el numero que representa la respuesta");
 
                 //Comprobamos si es correcta o no
                 if (p.comprobarRespuesta(respuesta2)) {
@@ -238,7 +239,7 @@ public class Test {
                 p.mostrarPregunta();
 
                 //Pedimos una respuesta
-                respuesta3 = teclado.pedirIntRango(1, p.getRespuestas().size(), "Introduce la respuesta");
+                respuesta3 = teclado.pedirIntRango(1, p.getRespuestas().size(), "Introduce el numero que representa la respuesta");
 
                 //Comprobamos si es correcta o no
                 if (p.comprobarRespuesta(respuesta3)) {
@@ -292,7 +293,7 @@ public class Test {
                 p.mostrarPregunta();
 
                 //Pedimos una respuesta
-                respuesta4 = teclado.pedirIntRango(1, p.getRespuestas().size(), "Introduce la respuesta");
+                respuesta4 = teclado.pedirIntRango(1, p.getRespuestas().size(), "Introduce el numero que representa la respuesta");
 
                 //Comprobamos si es correcta o no
                 if (p.comprobarRespuesta(respuesta4)) {
@@ -346,7 +347,7 @@ public class Test {
                 p.mostrarPregunta();
 
                 //Pedimos una respuesta
-                respuesta5 = teclado.pedirIntRango(1, p.getRespuestas().size(), "Introduce la respuesta");
+                respuesta5 = teclado.pedirIntRango(1, p.getRespuestas().size(), "Introduce el numero que representa la respuesta");
 
                 //Comprobamos si es correcta o no
                 if (p.comprobarRespuesta(respuesta5)) {

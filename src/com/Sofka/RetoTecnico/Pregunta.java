@@ -9,6 +9,7 @@ import listaDinamica.ListaDinamica;
 /**
  *
  * @author alvaro
+ * la clase pregunta es la encargada de cada pregunta que ofrece la catagoria
  */
 public class Pregunta {
 

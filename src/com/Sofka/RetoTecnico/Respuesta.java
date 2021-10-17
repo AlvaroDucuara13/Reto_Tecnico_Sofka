@@ -7,6 +7,7 @@ package com.Sofka.RetoTecnico;
 /**
  *
  * @author alvaro
+ * la clase respuesta, es la encargada de todas las respuestas de cada pregunta.
  */
 public class Respuesta {
 
